@@ -78,6 +78,7 @@ nav {
   /*height: 630px;*/
   border-top: red 3px solid;
   border-bottom: red 3px solid;
+  padding-bottom: 2.0em;
 }
 
 .main-inner {

@@ -12,5 +12,6 @@
  *= require comfortable_mexican_sofa/admin/application
  * require_style
  *= require_self
+ *= require comfortable_mexican_sofa/admin/testimonials
  * require_tree .
  */
