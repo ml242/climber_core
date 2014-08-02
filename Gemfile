@@ -12,6 +12,8 @@ gem 'dragonfly'
 gem 'comfortable_mexican_sofa'
 
 gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
+
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
