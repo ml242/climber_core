@@ -14,5 +14,9 @@
  *= require_self
  *= require comfortable_mexican_sofa/admin/testimonials
  *= require comfortable_mexican_sofa/admin/footer
+ *= require bootstrap-custom
  * require_tree .
  */
+
+
+@import 'bootstrap-custom';
